@@ -1,2 +1,2 @@
 # Password_Manager
-A python program to manage passwords.
+A python program to manage passwords. (work in progress)
